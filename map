@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": " My House ",
-    "imageUrl": "http://enhancedhomes.org/wallpaper/2015/07/design-my-house-exterior-29-design-ideas.jpg",
+    "imageUrl": "https://github.com/jomarbalmores/asd/blob/master/1.jpg.jpg",
     "priceCurrency": "Php",
     "price": 0,
     "lat":  16.320059,
@@ -11,7 +11,7 @@
   {
     "id": 146,
     "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
+    "imageUrl": "https://github.com/jomarbalmores/asd/blob/master/2.jpg.jpg",
     "priceCurrency": "Php",
     "price":10,
     "lat": 16.322980,
@@ -20,7 +20,7 @@
    {
     "id": 147,
     "name": " Eagle of the North",
-    "imageUrl": "https://igx.4sqi.net/img/general/600x600/51395336_ozEB1hZb95TUXvsZLqMpqCXeMhetHi8Z6BAcwiLkV5Q.jpg",
+    "imageUrl": "https://github.com/jomarbalmores/asd/blob/master/3.jpg.jpg",
     "priceCurrency": "Php",
     "price": 40,
     "lat":  16.330019,
@@ -29,7 +29,7 @@
    {
     "id": 148,
     "name": " Tapuakan River Park",
-    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/921218_1078835592156008_3450756882156457203_o-1050x591.jpg",
+    "imageUrl": "https://github.com/jomarbalmores/asd/blob/master/4.jpg.jpg",
     "priceCurrency": "Php",
     "price": 200,
     "lat":  16.321184, 
