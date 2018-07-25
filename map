@@ -7,7 +7,6 @@
     "price": 0,
     "lat":  16.320059,
     "lng":  120.346381
-    
   },
   {
     "id": 146,
@@ -17,18 +16,24 @@
     "price":10,
     "lat": 16.322980,
     "lng": 120.367534
-     
-  }
+  },
    {
     "id": 147,
-    "name": " Eagle of the North ",
+    "name": " Eagle of the North",
     "imageUrl": "https://igx.4sqi.net/img/general/600x600/51395336_ozEB1hZb95TUXvsZLqMpqCXeMhetHi8Z6BAcwiLkV5Q.jpg",
     "priceCurrency": "Php",
     "price": 40,
     "lat":  16.330019,
     "lng":  120.368147
-     
-    
+  },
+   {
+    "id": 148,
+    "name": " Tapuakan River Park",
+    "imageUrl": "http://www.livibautista.com/wp-content/uploads/2015/12/921218_1078835592156008_3450756882156457203_o-1050x591.jpg",
+    "priceCurrency": "Php",
+    "price": 200,
+    "lat":  16.321184, 
+    "lng":  120.481165  
   },
 
 ]
