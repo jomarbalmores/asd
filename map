@@ -11,13 +11,12 @@
   },
   {
     "id": 148,
-    "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
-    "priceCurrency": "Php",
-    "price": 10,
-    "lat": 16.322980,
-    "lng": 120.367534
-
+    "name": "Pugad Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/2.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
   },
   {
     "id": 201,
